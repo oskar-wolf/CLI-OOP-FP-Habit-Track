@@ -48,6 +48,7 @@ Clone the repository to your local machine:
    ```
 
 Screenshots of git clone running on WindowsCMD and Linux Terminal: 
+
 ![WindowsCMD](https://github.com/ScruffyNoShoes/goal-groove/assets/29300639/2f1c98fe-0837-4140-8287-f1fd2bd68be2)
 ![LinuxTerminal](https://github.com/ScruffyNoShoes/goal-groove/assets/29300639/af68adfe-4565-4cb8-9a35-ed1c408bb652)
 
