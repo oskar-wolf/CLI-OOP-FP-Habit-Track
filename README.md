@@ -2,7 +2,7 @@
 
 ## What is it?
 
-**Goal Groove** is a habit tracking application that empowers users to effectively manage their habits, set goals, and track progress. This application provides a user-friendly platform to help individuals from diverse backgrounds achieve personal growth and success in their academic and professional endeavors.
+**Goal Groove** is a habit tracking application that empowers users to effectively manage their habits, set goals, and track progress. This application provides a user-friendly platform to help individuals achieve personal growth and success in their academic and professional endeavors.
 
 Launch the application by running the main program:
 
