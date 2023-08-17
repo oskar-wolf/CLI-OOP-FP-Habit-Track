@@ -42,6 +42,6 @@ Interact with the application using the following options:
 
 Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/goal-groove.git
+   git clone 
    cd goal-groove
    pip install -r requirements.txt
