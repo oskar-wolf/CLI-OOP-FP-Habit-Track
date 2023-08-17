@@ -6,7 +6,7 @@
 
 Launch the application by running the main program:
 
-    python GoalGroove.py
+    python3 GoalGroove.py
 
 ## Usage:
 
@@ -46,6 +46,8 @@ Clone the repository to your local machine:
    cd goal-groove
    pip install -r requirements.txt
    ```
+I have had problems installing requiremnts.txt, for some reason due to my windows python configuration. 
+However if sqlite3 and matplotlib are installed to path or venv then program should run. 
 
 Screenshots of git clone running on WindowsCMD and Linux Terminal: 
 
